@@ -14,6 +14,9 @@ Discord-Webhooks können zur einfachen Nachrichtenweitergabe verwendet werden. D
     5. Über den Klick auf 'copy webhook url' erhält man den Link, welchen man später im Script einfügen muss.
     6. Fertig
 
+![grafik](https://github.com/sc2de/OBS2Discord/assets/40400000/e2cdc7bc-1b5e-41d6-b79e-35e8a9a2a229)
+
+
 ## Nutzen des Scripts
 
 Von dem Script sind zwei Versionen bereitgestellt:
@@ -34,3 +37,5 @@ Vorgehen(weitere Hinweise ebenfalls in den Script-Dateien selbst):
     8. Gehe in OBS-Studio zu Werkzeuge->Scripte und füge die Datei hinzu.
     9. Fertig. Sobald du nun auf "Starte Stream" drückst, wird die Aktion ausgelöst.
     10. Sollte alles passen, sollte die versendete Nachricht fast sofort im gewählten Discordkanal zu sehen sein.
+
+    ![grafik](https://github.com/sc2de/OBS2Discord/assets/40400000/de090416-c37f-48fe-a1bc-04fa3dff62d1)
