@@ -38,4 +38,4 @@ Vorgehen(weitere Hinweise ebenfalls in den Script-Dateien selbst):
     9. Fertig. Sobald du nun auf "Starte Stream" drückst, wird die Aktion ausgelöst.
     10. Sollte alles passen, sollte die versendete Nachricht fast sofort im gewählten Discordkanal zu sehen sein.
 
-    ![grafik](https://github.com/sc2de/OBS2Discord/assets/40400000/de090416-c37f-48fe-a1bc-04fa3dff62d1)
+![grafik](https://github.com/sc2de/OBS2Discord/assets/40400000/de090416-c37f-48fe-a1bc-04fa3dff62d1)
