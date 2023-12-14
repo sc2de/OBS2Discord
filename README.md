@@ -18,8 +18,8 @@ Discord-Webhooks können zur einfachen Nachrichtenweitergabe verwendet werden. D
 
 Von dem Script sind zwei Versionen bereitgestellt:
 
- - obs2discord.py liefert die Basisfunktion
- - obs2discord_multichannel.py Basisscript für 2 Kanäle, welches beliebig erweitert werden kann
+ - [obs2discord.py](https://github.com/sc2de/OBS2Discord/blob/main/obsnotification.py) liefert die Basisfunktion
+ - [obs2discord_multichannel.py](https://github.com/sc2de/OBS2Discord/blob/main/obsnotification_multichannel.py) Basisscript für 2 Kanäle, welches beliebig erweitert werden kann
 
 
 Vorgehen(weitere Hinweise ebenfalls in den Script-Dateien selbst):
