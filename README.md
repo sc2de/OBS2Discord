@@ -25,12 +25,12 @@ Von dem Script sind zwei Versionen bereitgestellt:
  - [obs2discord_multichannel.py](https://github.com/sc2de/OBS2Discord/blob/main/obs2discord_multichannel.py) Basisscript für 2 Kanäle, welches beliebig erweitert werden kann
 
 
-Vorgehen(weitere Hinweise ebenfalls in den Script-Dateien selbst):
+Vorgehen(Im Script selbst ist ebenfalls alles beschriftet):
 
     1. Lade das Script an einen beliebigen Ort auf deiner Festplatte herunter.
     2. Öffne die Datei mit einem beliebigen Texteditor.
     3. Füge die URL des Discord-Webhooks an die richtige Stelle ein.
-    4. Editiere die Nachricht, welche versendet werden soll nach belieben.
+    4. Editiere die Nachricht, welche versendet werden soll, nach belieben.
     5. Achte darauf, dass Anführungszeichen und Klammern bleiben wo Sie sind. Tausche nur DISCORD_URL_HIER und EURE_NACHRICHT_HIER aus.
     6. Passe ggf. den Profilnamen an. Welches Profil du in OBS verwendest, wird von OBS Studio in der Titelleiste angezeigt.
     7. Speichere die Datei.
