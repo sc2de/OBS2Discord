@@ -6,6 +6,7 @@ Pythonscript to send a POST request to a webhook URL on OBS action "start stream
 ## Erstellen des Discord Webhooks
 
 Discord-Webhooks können zur einfachen Nachrichtenweitergabe verwendet werden. Das Feature wird vom kostenlosen Basisserver angeboten.
+
     1. Gehe zu Servereinstellungen -> Integration
     2. Klicke auf 'Webhooks'
     3. Erstelle einen neuen Webhook. Dieser sollte nun in der Liste sichtbar sein.
