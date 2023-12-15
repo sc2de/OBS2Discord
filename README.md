@@ -3,6 +3,11 @@ Pythonscript to send a POST request to a webhook URL on OBS action "start stream
 
 # Anleitung
 
+## Voraussetzungen
+
+Um die Scriptfunktion von OBS-Studio verwenden zu können, muss auf dem System eine Installation von [python](https://www.python.org/downloads/) vorhanden sein.
+Ebenfalls wird [python-requests](https://pypi.org/project/requests/) benötigt.
+
 ## Erstellen des Discord Webhooks
 
 Discord-Webhooks können zur einfachen Nachrichtenweitergabe verwendet werden. Das Feature wird vom kostenlosen Basisserver angeboten.
